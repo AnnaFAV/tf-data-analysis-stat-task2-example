@@ -20,4 +20,3 @@ def solution(p: float, x: np.array) -> tuple:
 
 p = 0.95
 x = np.array([30, 35, 25, 28, 32])
-results = solution(p, x)
